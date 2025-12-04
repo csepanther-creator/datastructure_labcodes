@@ -1,0 +1,16 @@
+1. Develop a menu driven program demonstrating the following operations on a Stack using array:
+(i) push(), (ii) pop(), (iii) isEmpty(), (iv) isFull(), (v) display(), and (vi) peek().
+
+
+2. Given a string, reverse it using STACK. For example “DataStructure” should be output as
+“erutcurtSataD.”
+
+
+3. Write a program that checks if an expression has balanced parentheses.
+
+
+4. Write a program to convert an Infix expression into a Postfix expression.
+
+
+5. Write a program for the evaluation of a Postfix expression.
+
